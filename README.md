@@ -148,8 +148,6 @@ To become the **core technical leader or CTO** of a startup — capable of build
 ## 💬 Connect & Update
 
 * 🧑‍💻 Author: [Meng Qu](https://github.com/Meng-V)
-* 🌐 Website: [https://www.cealstats.org](https://www.cealstats.org)
-* 🐦 Twitter/X: `@yourhandle`
 * 📅 Learning Schedule: *30 minutes a day, 5 days a week*
 
 > “Discipline builds frameworks — passion builds vision.”
